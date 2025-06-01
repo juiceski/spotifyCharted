@@ -11,5 +11,6 @@ Will be continuing the project if missing genre data ever gets fixed. I was most
 
 
 Example of the genre breakdown
+
 ![image](https://github.com/user-attachments/assets/cf56f035-685b-4b10-9fbe-ce468839a90d)
 

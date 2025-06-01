@@ -1,7 +1,7 @@
 # spotifyCharted
-making some charts with spotify api data
+Learning React + NextJS by making some charts with spotify api data
 
-Update: Found out the Spotify API is missing genres for popular artists (ex. Gorillaz, LIGHTs), skewing charts heavily towards "Unknown" since they cannot be categorized.
+Update 06/2025: Found out the Spotify API is missing genres for popular artists (ex. Gorillaz, LIGHTs), skewing charts heavily towards "Unknown" since they cannot be categorized.
 
 Seems to be broken since beginning of 2025 as per this forum post: https://community.spotify.com/t5/Spotify-for-Developers/Genres-from-artists-have-been-removed/td-p/6659559
 
